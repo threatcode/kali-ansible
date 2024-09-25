@@ -1,6 +1,6 @@
 # Kali (Rolling) Ansible Test Image #
 
-![Build](https://github.com/khulnasoft/docker-kali-ansible/workflows/Build/badge.svg?branch=master)
+![Build](https://github.com/khulnasoft/docker-kali-ansible/workflows/Test/badge.svg?branch=master)
  [![Docker pulls](https://img.shields.io/docker/pulls/khulnasoft/docker-kali-ansible)](https://hub.docker.com/r/khulnasoft/docker-kali-ansible/)
 
 Kali Linux (Rolling) Docker container for Ansible playbook and role testing.
