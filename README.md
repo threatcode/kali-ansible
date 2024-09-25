@@ -4,8 +4,8 @@
     <a href="https://github.com/khulnasoft/docker-kali-ansible/actions/workflows/build.yml" target="_blank">
         <img src="https://github.com/khulnasoft/docker-kali-ansible/actions/workflows/build.yml/badge.svg" alt="Build Status" />
     </a>
-    <a href="https://github.com/khulnasoft/docker-kali-ansible/commits/main">
-       <img alt="GitHub" src="https://img.shields.io/github/last-commit/khulnasoft/docker-kali-ansible/main?style=for-the-badge" height="20">
+    <a href="https://github.com/khulnasoft/docker-kali-ansible/commits/master">
+       <img alt="GitHub" src="https://img.shields.io/github/last-commit/khulnasoft/docker-kali-ansible/master?style=for-the-badge" height="20">
     </a>
 
 Kali Linux (Rolling) Docker container for Ansible playbook and role testing.
