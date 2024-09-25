@@ -1,4 +1,5 @@
-name: Build
+name: 🚀 Build and Push Docker image
+
 
 on:
   pull_request:
